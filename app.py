@@ -24,7 +24,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("💰 CÔNG CỤ TÍNH LÃI TIẾT KIỆM_KIÊM ĐA NI)
+st.title("💰 CÔNG CỤ TÍNH LÃI TIẾT KIỆM_KIÊM ĐA NI")
 st.markdown("<p class='subtitle'>Tính toán chính xác tiền lãi nhận được theo từng hình thức gửi</p>", unsafe_allow_html=True)
 
 # 2. Giao diện nhập thông tin
