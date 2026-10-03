@@ -3,7 +3,7 @@ import pandas as pd
 st.image("logo.jpg")
 # 1. Cấu hình trang
 st.set_page_config(
-    page_title="Công Cụ Tính Lãi Tiết Kiệm",
+    page_title="Công Cụ Tính Lãi Tiết Kiệm Kiêm Đa Ni",
     page_icon="💰",
     layout="centered"
 )
