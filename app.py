@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+st.image("logo.jpg")
 # 1. Cấu hình trang
 st.set_page_config(
     page_title="Công Cụ Tính Lãi Tiết Kiệm",
