@@ -3,7 +3,7 @@ import pandas as pd
 st.image("logo.jpg")
 # 1. Cấu hình trang
 st.set_page_config(
-    page_title="(Công Cụ Tính Lãi Tiết Kiệm_Kiêm Đa Ni)",
+    page_title="Công Cụ Tính Lãi Tiết Kiệm",
     page_icon="💰",
     layout="centered"
 )
@@ -24,7 +24,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("💰 CÔNG CỤ TÍNH LÃI TIẾT KIỆM")
+st.title("💰 CÔNG CỤ TÍNH LÃI TIẾT KIỆM_KIÊM ĐA NI)
 st.markdown("<p class='subtitle'>Tính toán chính xác tiền lãi nhận được theo từng hình thức gửi</p>", unsafe_allow_html=True)
 
 # 2. Giao diện nhập thông tin
